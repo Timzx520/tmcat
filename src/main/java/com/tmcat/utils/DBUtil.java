@@ -13,7 +13,7 @@ import java.sql.SQLException;
  * 数据库的JDBC连接
  */
 public class DBUtil {
-    static String IP = "192.168.33.107";
+    static String IP = "192.168.199.207";
     static int PORT = 3306;
     static String DATABASE = "tmall";
     static String ENCODING = "UTF-8";
