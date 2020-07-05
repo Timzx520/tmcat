@@ -1,0 +1,6 @@
+[2020-07-0317:08:37][INFO ][jpm-DBUtil-logprint(20)]-MYSQL驱动程序加载成功
+[2020-07-0317:08:37][INFO ][jpm-DBUtil-logprint(20)]-数据库连接失败--Access denied for user 'root'@'192.168.33.118' (using password: YES)
+[2020-07-0317:20:03][INFO ][jpm-DBUtil-logprint(22)]-MYSQL驱动程序加载成功
+[2020-07-0317:20:03][ERROR][jpm-DBUtil-logprint(24)]-数据库连接失败--Access denied for user 'root'@'192.168.33.118' (using password: YES)
+[2020-07-0317:22:25][INFO ][jpm-DBUtil-logprint(22)]-MYSQL驱动程序加载成功
+[2020-07-0317:22:25][INFO ][jpm-DBUtil-logprint(22)]-数据库连接成功com.mysql.jdbc.Connection@667a738
